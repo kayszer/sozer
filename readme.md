@@ -12,6 +12,6 @@
 1. Un petit café avec
 
 * Fin
-[cliquez ici](google.com)
+[cliquez ici](www.google.com)
 <a name="ancre">
-[retour en haut](#top)
+[reout en haut](#top)
